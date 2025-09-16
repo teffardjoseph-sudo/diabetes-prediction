@@ -1,3 +1,7 @@
+flask
+numpy
+scikit-learn
+joblib
 blinker==1.9.0
 click==8.2.1
 colorama==0.4.6
@@ -11,3 +15,4 @@ scikit-learn==1.7.2
 scipy==1.16.2
 threadpoolctl==3.6.0
 Werkzeug==3.1.3
+
